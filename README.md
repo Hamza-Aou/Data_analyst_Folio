@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages and data analysis
 - 🌱 I’m currently learning Python (Numpy, pandas...) and PowerBi
 - 💞️ I’m looking to collaborate on Data analysis projects
-- 📫 How to reach me ...
+- 📫 How to reach me Just send an email to aoudiahamza@gmail.com
 
 <!---
 Hamza-Aou/Hamza-Aou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
